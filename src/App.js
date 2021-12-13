@@ -1,9 +1,12 @@
 import './App.css';
+import CoverComponent from './components/cover.component';
+import AboutComponent from './components/about.component';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <p></p>
+    <div className="bg-[url('/src/images/main-background.jpg')] bg-cover bg-fixed">
+      <CoverComponent />
+      <AboutComponent />
     </div>
   );
 }
