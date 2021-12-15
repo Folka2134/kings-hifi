@@ -13,6 +13,9 @@ module.exports = {
         "raleway" : ['"Raleway"'],
         "hind-madurai" : ['"Hindi Madurai"'],
         "arimo" : ['"Arimo"']
+      },
+      animation: {        
+        'spin-slow': 'spin 2.6s linear infinite'
       }
     },
   },  
