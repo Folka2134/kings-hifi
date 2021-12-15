@@ -4,7 +4,7 @@ import soundsystem from "../images/kingshifi-soundsystem.jpg"
 
 const SoundsystemComponent = () => {
     return (
-        <div className="about-container h-screen bg-[url('/src/images/backgrounds/wave-haikei(1).svg')] bg-center bg-cover lg:bg-fixed ">
+        <div className="about-container h-screen bg-[url('/src/images/backgrounds/wave-haikei(1).svg')] bg-center bg-cover lg:bg-fixed">
             <div className="h-screen grid grid-cols-1 grid-rows-2 gap-20 row-1 justify-items-start content-center p-12 md:grid-rows-none lg:grid-cols-2 lg:gap-44 xl:p-40">
                 <div className="row-end-1 text-center sm:text-right mt-24 lg:row-auto 2xl:ml-52">
                     <h2 className="font-raleway font-bold text-font-title-color text-5xl p-8">SOUND SYS<span className="underline underline-offset-8 decoration-4">TEM</span></h2>
