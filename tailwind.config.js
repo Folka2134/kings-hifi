@@ -5,8 +5,8 @@ module.exports = {
       colors: {
         'main-yellow': '#F3D534',
         'main-black' : '#292929',
-        // 'main-green' : '#B0CC44',
-        'main-green' : '#3BAE49',
+        'main-green' : '#38A545',
+        'main-red' : '#E32512',
         'font-title-color' : '#333333'
       },
       fontFamily: {
@@ -15,7 +15,8 @@ module.exports = {
         "arimo" : ['"Arimo"']
       },
       animation: {        
-        'spin-slow': 'spin 2.6s linear infinite'
+        'spin-slow': 'spin 2.6s linear infinite',
+        'fast-pulse' : 'pulse 1.5s infinite'
       }
     },
   },  

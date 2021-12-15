@@ -9,7 +9,7 @@ const CoverComponent = () => {
         <div className="h-screen bg-[url('/src/images/kingshifi-soundsystem2.png')] bg-top bg-fixed">
             <div className="h-screen bg-black bg-opacity-95">
                 <Link className="h-screen w-auto flex justify-center items-center" to="about-container" smooth={true} >
-                    <img className="h-1/3 hover:animate-pulse cursor-pointer" src={logo} alt="logo" />
+                    <img className="h-1/3 hover:animate-fast-pulse cursor-pointer" src={logo} alt="logo" />
                 </Link>
             </div>
         </div>
