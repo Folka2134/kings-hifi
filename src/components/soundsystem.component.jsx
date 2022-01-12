@@ -22,7 +22,7 @@ const SoundsystemComponent = () => {
                     <p className="font-arimo text-xl 1xl:pl-56">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div className="grid md:flex justify-center items-center">
-                    <img className=" rounded-3xl border-4 border-main-black" src={soundsystem} alt="sound system" />
+                    <img className="max-h-[34rem] rounded-3xl border-4 border-main-black" src={soundsystem} alt="sound system" />
                 </div>
             </div>
         </div>
