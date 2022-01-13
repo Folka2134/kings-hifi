@@ -9,7 +9,7 @@ import GalleryComponent from './components/gallery.component';
 const App = () => {
   return (
     // <div className="bg-[url('/src/images/main-background.jpg')] bg-cover bg-fixed text-font-title-color">
-    <div className="text-font-title-color bg-[url('/src/images/backgrounds/aboutBackground1.svg')] bg-center bg-cover lg:bg-fixed">
+    <div className="text-font-title-color bg-[url('/src/images/backgrounds/aboutBackground1.svg')] bg-center bg-cover bg-fixed">
       <CoverComponent />
       <NavbarComponent />
       <AboutComponent />
