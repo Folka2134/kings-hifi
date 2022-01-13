@@ -16,7 +16,7 @@ const NavbarComponent = () => {
                     <li className='p-3 rounded-xl hover:bg-main-black'>Services</li>
                 </ul>
                 <ul className='flex justify-center text-center items-center align-middle text-white'>
-                    <FaFacebookF size={25} className='mx-4 cursor-pointer transition-all duration-150 hover:text-blue-600' />
+                    <FaFacebookF size={25} className='mx-4 cursor-pointer transition-all duration-150 hover:text-blue-500' />
                     <FaInstagram size={30} className='mx-4 cursor-pointer transition-all duration-150 hover:text-pink-600' />
                     <FaSoundcloud size={40} className='mx-4 cursor-pointer transition-all duration-150 hover:text-orange-600' />
                     <FaBandcamp size={25} className='mx-4 cursor-pointer transition-all duration-150 hover:text-blue-400 md:mr-14 ' />
