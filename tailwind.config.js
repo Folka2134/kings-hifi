@@ -17,7 +17,11 @@ module.exports = {
       animation: {        
         'spin-slow': 'spin 2.6s linear infinite',
         'fast-pulse' : 'pulse 1.5s infinite'
-      }
+      },
+      screens: {
+        '3xl': '1800px',
+        '4xl': '2000px',
+      },
     },
   },  
   plugins: [],
