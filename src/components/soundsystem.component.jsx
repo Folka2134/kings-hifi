@@ -9,6 +9,8 @@ const SoundsystemComponent = () => {
                 <div className="row-end-1 text-center sm:text-right lg:row-auto 2xl:ml-52 self-center">
                     <h2 className="text-5xl font-raleway font-bold text-font-title-color p-8">SOUND-<span className="underline underline-offset-8 decoration-4 decoration-main-red">SYSTEM</span></h2>
                     <p className="font-arimo text-xl 1xl:pl-56">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <h2 className="text-5xl font-raleway font-bold text-font-title-color p-8">SERVICES</h2>
+                    <p className="font-arimo text-xl 1xl:pl-56">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div className="grid md:flex justify-center items-center">
                     <img className="max-h-[34rem] rounded-3xl border-4 border-main-black" src={soundsystem} alt="sound system" />
