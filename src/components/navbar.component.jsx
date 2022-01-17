@@ -7,7 +7,7 @@ import logo from "../images/kingshifilogo2.png"
 const NavbarComponent = () => {
     return (
         <div className="min-h-[4rem] w-80 justify-between sticky top-0 bg-main-black bg-opacity-95 shadow-md shadow-main-black rounded-b-xl z-10 md:h-16 md:w-full md:flex">
-            <GiHamburgerMenu size={50} className='md:hidden absolute m-2 text-white ' />
+            <GiHamburgerMenu size={50} className='md:hidden absolute m-2 text-white' />
             <nav className='md:flex md:w-full md:justify-between hidden transition-all duration-150 '>
                 <ul className='grid justify-center text-center items-center align-middle text-white md:flex' >
                     <li className='md:p-3'><img src={logo} alt="logo" className='h-16' /> </li>
