@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaFacebookF, FaInstagram, FaSoundcloud, FaBandcamp } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
+import { Link } from 'react-scroll/modules';
 
 import logo from "../images/kingshifilogo2.png"
 
@@ -10,9 +11,9 @@ const NavbarComponent = () => {
             <GiHamburgerMenu size={50} className='md:hidden absolute m-2 text-white' />
             <nav className='md:flex md:w-full md:justify-between hidden transition-all duration-150 '>
                 <ul className='grid justify-center text-center items-center align-middle text-white md:flex' >
-                    <li className='md:p-3'><img src={logo} alt="logo" className='h-16' /> </li>
-                    <li className='p-3 rounded-xl hover:bg-main-black'>About</li>
-                    <li className='p-3 rounded-xl hover:bg-main-black'>System & Services</li>
+                    <li className='md:p-3 cursor-pointer'><Link to='cover-container' smooth={true}><img src={logo} alt="logo" className='h-16' /></Link></li>
+                    <li className='p-3 rounded-xl cursor-pointer hover:bg-main-black'><Link to='about-container' smooth={true}>About</Link></li>
+                    <li className='p-3 rounded-xl cursor-pointer hover:bg-main-black'><Link to='system-container' smooth={true}>System & Services</Link></li>
                 </ul>
                 <ul className='flex justify-center text-center items-center align-middle text-white'>
                     <FaFacebookF size={25} className='mx-4 cursor-pointer transition-all duration-150 hover:text-blue-500' />
