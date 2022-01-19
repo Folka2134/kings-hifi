@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kings-hifi/static/css/main.5a175707.css",
+    "main.js": "/kings-hifi/static/js/main.fa2fdad6.js",
+    "static/media/main-background.jpg": "/kings-hifi/static/media/main-background.94ca524555a3e9caeeba.jpg",
+    "static/media/kingshifilogo.png": "/kings-hifi/static/media/kingshifilogo.2ba64587584bcf77c68b.png",
+    "static/media/pathoftherighteousnessdubwhite.png": "/kings-hifi/static/media/pathoftherighteousnessdubwhite.023ba8f22b834809f84c.png",
+    "static/media/vixonsoundleftbehindwhite.png": "/kings-hifi/static/media/vixonsoundleftbehindwhite.3171b868267e8532e5df.png",
+    "static/media/nattywickedwhite.png": "/kings-hifi/static/media/nattywickedwhite.713e2e1098245ecff13d.png",
+    "static/media/kingshifi-soundsystemnew.png": "/kings-hifi/static/media/kingshifi-soundsystemnew.647129ba8e994859521c.png",
+    "static/media/kingshifilogo2.png": "/kings-hifi/static/media/kingshifilogo2.3df1c4031454dfe0c5e7.png",
+    "static/media/kingshifi-soundsystem.jpg": "/kings-hifi/static/media/kingshifi-soundsystem.0b07934e0ffb357f182d.jpg",
+    "static/media/kingshifi-crew.jpg": "/kings-hifi/static/media/kingshifi-crew.4dfb248119fb4c8a9f81.jpg",
+    "static/media/bannerbackground2.jpg": "/kings-hifi/static/media/bannerbackground2.17c0a0c16633ee2a4dfc.jpg",
+    "index.html": "/kings-hifi/index.html",
+    "static/media/aboutBackground1.svg": "/kings-hifi/static/media/aboutBackground1.0661c7e9f2c6de7d0c43.svg",
+    "static/media/wave-haikei(5).svg": "/kings-hifi/static/media/wave-haikei(5).ec0d32fd601dd1951d7d.svg",
+    "main.5a175707.css.map": "/kings-hifi/static/css/main.5a175707.css.map",
+    "main.fa2fdad6.js.map": "/kings-hifi/static/js/main.fa2fdad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a175707.css",
+    "static/js/main.fa2fdad6.js"
+  ]
+}
